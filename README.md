@@ -9,14 +9,13 @@
 </div>
 
 <h3 align="center">
-          Live Project : 
+          Live Project : https://task-managerjs.netlify.app
 </h3>
 <br />
 
-## Tech Stack : <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+## Tech Stack : <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
 
-
-- **Frontend:** HTML,CSS,React.js,AntD
+- **Frontend:** HTML,CSS,React.js,AntD,redux-toolkit
 - **Version Control:** Git and GitHub
 - **Hosting:** Netlify
 - **Code Editor and tools**: VS Code
